@@ -70,7 +70,7 @@ The Config.cs is already created for you. Open it, update the code to look like 
 
 (see the full file `here <https://github.com/IdentityServer/IdentityServer4/blob/master/samples/Quickstarts/1_ClientCredentials/src/IdentityServer/Config.cs>`_).
 	
-.. note:: If you will be using this in production it is important to give your API a logical name. Developers will be using this to connect to your api though your Identity server.  It should describe your api in simple terms to both developers and users.
+.. note:: If you will be using this in production it is important to give your API a logical name. Developers will be using this to connect to your api through your Identity server.  It should describe your api in simple terms to both developers and users.
 
 Defining the client
 ^^^^^^^^^^^^^^^^^^^
